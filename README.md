@@ -1,1 +1,1 @@
-# LegendBotDeploy
+Deploy Link For Legend Bot
